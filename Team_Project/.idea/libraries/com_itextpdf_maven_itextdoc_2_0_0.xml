@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="com.itextpdf.maven:itextdoc:2.0.0" type="repository">
+    <properties maven-id="com.itextpdf.maven:itextdoc:2.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/itextdoc-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/itextpdf-5.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xmlworker-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/maven-plugin-api-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/maven-model-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/plexus-utils-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/maven-artifact-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sisu-inject-plexus-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/plexus-component-annotations-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/plexus-classworlds-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sisu-inject-bean-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sisu-guice-2.9.4-no_aop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
